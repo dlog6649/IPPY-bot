@@ -1,0 +1,27 @@
+{
+  "name": "IPPY-bot",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "./src/index.ts",
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "dlog6649@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "start": "",
+    "dev": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "1.6.2",
+    "discord.js": "14.14.1",
+    "dotenv": "16.4.5",
+    "lodash": "4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "3.1.0",
+    "typescript": "5.4.3"
+  }
+}
